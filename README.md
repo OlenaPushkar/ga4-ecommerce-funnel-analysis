@@ -92,3 +92,10 @@ Skills Demonstrated
 * Data Visualization
 * Tableau
 * Business Analytics
+
+
+## Live Dashboard
+
+View Dashboard:
+
+https://public.tableau.com/app/profile/olena.pushkar/viz/GA4E-commerceFunnel/Dashboard1
