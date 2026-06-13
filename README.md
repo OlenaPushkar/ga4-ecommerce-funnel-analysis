@@ -43,6 +43,7 @@ Key Metrics
 * Total Orders: 4,745
 
 
+
 Dashboard Components
 
 Funnel Analysis
@@ -70,6 +71,7 @@ SQL Analysis
 
 The analysis was performed in BigQuery using SQL.
 
+
 Main tasks included:
 
 * Session identification
@@ -79,7 +81,8 @@ Main tasks included:
 * KPI calculation
 * Conversion analysis
 
-  Skills Demonstrated
+
+Skills Demonstrated
 
 * SQL
 * BigQuery
