@@ -1,4 +1,4 @@
-GA4 E-commerce Funnel Analysis
+## GA4 E-commerce Funnel Analysis
 
 Project Overview
 
@@ -7,7 +7,7 @@ This project analyzes user behavior in a GA4 e-commerce dataset using BigQuery a
 The goal of the analysis is to understand how users move through the purchase funnel, identify conversion bottlenecks, and evaluate user behavior across different traffic sources, devices, operating systems, and languages.
 
 
-Business Questions
+## Business Questions
 
 * How many sessions were generated during the analyzed period?
 * How many orders were completed?
@@ -18,7 +18,7 @@ Business Questions
 * Which device languages are most common?
 
 
-Tools Used
+## Tools Used
 
 * Google Analytics 4 (GA4)
 * BigQuery
@@ -26,7 +26,7 @@ Tools Used
 * Tableau Public
 
 
-Funnel Stages
+## Funnel Stages
 
 The funnel consists of the following events:
 
@@ -37,14 +37,14 @@ The funnel consists of the following events:
 5. purchase
 
 
-Key Metrics
+## Key Metrics
 
 * Total Sessions: 354,857
 * Total Orders: 4,745
 
 
 
-Dashboard Components
+## Dashboard Components
 
 Funnel Analysis
 
@@ -67,12 +67,12 @@ Operating System
 Distribution of sessions by operating system.
 
 
-SQL Analysis
+## SQL Analysis
 
 The analysis was performed in BigQuery using SQL.
 
 
-Main tasks included:
+## Main tasks included:
 
 * Session identification
 * Landing page extraction
@@ -82,7 +82,7 @@ Main tasks included:
 * Conversion analysis
 
 
-Skills Demonstrated
+## Skills Demonstrated
 
 * SQL
 * BigQuery
