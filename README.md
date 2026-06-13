@@ -105,3 +105,7 @@ https://public.tableau.com/app/profile/olena.pushkar/viz/GA4E-commerceFunnel/Das
 The complete SQL query used for the analysis is available in:
 
 - ga4_funnel_query.sql
+
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
